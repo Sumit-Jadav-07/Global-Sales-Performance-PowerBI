@@ -67,11 +67,11 @@ Ensure the data is cleaned and formatted correctly before loading it into Power 
 
 ## Dashboard Preview
 
-![Dashboard Preview](path-to-dashboard-preview-image.png)
-
-## License
-
-This project is licensed under the MIT License. Feel free to use, modify, and share it.
+![Dashboard Preview](Dashboard-Previews/Sales-Summary-1.png)
+![Dashboard Preview](Dashboard-Previews/Sales-Summary-2.png)
+![Dashboard Preview](Dashboard-Previews/Sales-Summary-3.png)
+![Dashboard Preview](Dashboard-Previews/Sales-Summary-4.png)
+![Dashboard Preview](Dashboard-Previews/Q&A-Analysis.png)
 
 ---
 
