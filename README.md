@@ -56,8 +56,6 @@ This repository showcases an interactive **Global Sales Performance Dashboard** 
   - **Customer Data**: Customer information including region.
   - **Shipping Data**: Shipping costs and methods.
 
-Ensure the data is cleaned and formatted correctly before loading it into Power BI.
-
 ## Insights Delivered
 
 - Real-time insights into sales and profit trends.
