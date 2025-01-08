@@ -67,10 +67,19 @@ Ensure the data is cleaned and formatted correctly before loading it into Power 
 
 ## Dashboard Preview
 
+- Sales Summary 1
 ![Dashboard Preview](Dashboard-Previews/Sales-Summary-1.png)
+
+- Sales Summary 2
 ![Dashboard Preview](Dashboard-Previews/Sales-Summary-2.png)
+
+- Sales Summary 3
 ![Dashboard Preview](Dashboard-Previews/Sales-Summary-3.png)
+
+- Sales Summary 4
 ![Dashboard Preview](Dashboard-Previews/Sales-Summary-4.png)
+
+- Q&A Analysis
 ![Dashboard Preview](Dashboard-Previews/Q&A-Analysis.png)
 
 ---
